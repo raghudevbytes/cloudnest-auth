@@ -15,6 +15,10 @@
 
     <dependencies>
         <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-security</artifactId>
+        </dependency>
+        <dependency>
             <groupId>com.cloudnest.util</groupId>
             <artifactId>cloudnest-util</artifactId>
             <version>1.0.0</version>
